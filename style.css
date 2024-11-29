@@ -1,0 +1,28 @@
+.heading{
+    font-size: 4em;
+    color: white;
+    text-align: center;
+}
+.box{
+    border: 2px solid;
+    border-color: white;
+    width: 200px;
+    height: 500px;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+.linktext{
+    text-align: center;
+    color: white;
+    font-size: 2em;
+}
+.app{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+body {
+    background-image: url(Images/background.jpg);
+    background-size: cover;
+}
